@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8-Puzzle Solver Visualizer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Quebra-cabeça Deslizante 8 Peças</h1>
+    
+    <div class="container">
+        <div class="info">
+            <strong>Como funciona:</strong> O algoritmo A* encontra o caminho mais curto para resolver o puzzle.
+            Ele usa a "Distância de Manhattan" para saber quão longe cada peça está do seu lugar correto.
+        </div>
+        
+        <div id="puzzle-board" class="puzzle-board"></div>
+        
+        <div class="controls">
+            <button id="shuffle-btn">Embaralhar</button>
+            <button id="solve-btn" disabled>Resolver</button>
+        </div>
+        
+        <div id="status">Clique em "Embaralhar" para começar</div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

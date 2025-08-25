@@ -14,7 +14,7 @@ Este projeto implementa um **resolvedor automático** para o quebra-cabeça desl
 
 O quebra-cabeça consiste em um tabuleiro 3x3 com 8 peças numeradas (1-8) e um espaço vazio, onde o objetivo é organizar as peças em ordem crescente movendo-as para o espaço vazio.
 
-### ✨ **Características Principais**
+### **Características Principais**
 
 - 🎯 **Solução Ótima Garantida**: Sempre encontra o menor número de movimentos
 - ⚡ **Performance Eficiente**: Resolução em milissegundos usando heurística inteligente

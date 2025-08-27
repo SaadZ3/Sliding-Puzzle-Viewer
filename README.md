@@ -139,13 +139,13 @@ Contribuições são bem-vindas! Aqui estão algumas formas de ajudar:
 
 ---
 
-## 👨‍💻 **Saad Amer**
+## 👨‍💻 **Autor**
 
 **[Saad Amer]**
-- 🌐 Website: [seusite.com](https://seusite.com)
+- 🌐 Website: [meusite.com](https://seusite.com)
 - 📧 Email: saadmu139@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/saad-amer-102482279/)
-- 🐙 GitHub: [@seuusuario](https://github.com/saadZ3)
+- 💼 LinkedIn: [linkedin.com/in/saad](https://linkedin.com/in/saad-amer-102482279/)
+- 🐙 GitHub: [@saadZ3](https://github.com/saadZ3)
 
 ---
 

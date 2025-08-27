@@ -69,7 +69,7 @@ A Distância de Manhattan é **admissível** porque:
 3. Não requer instalação ou dependências!
 
 ### **Opção 2: Uso Direto**
-- Ou acesse online aqui
+- Ou acesse online <a href="https://sliding-puzzle-viewer.vercel.app/" target="blank">aqui</a>
 
 
 ---

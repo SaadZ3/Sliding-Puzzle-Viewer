@@ -15,23 +15,18 @@ O quebra-cabeça consiste em um tabuleiro 3x3 com 8 peças numeradas (1-8) e um 
 
 ### **Características Principais**
 
-- 🎯 **Solução Ótima Garantida**: Sempre encontra o menor número de movimentos
-- ⚡ **Performance Eficiente**: Resolução em milissegundos usando heurística inteligente
-- 🎮 **Interface Interativa**: Visualização em tempo real da solução passo-a-passo
-- 🧠 **Algoritmo A***: Implementação didática e bem documentada
+- **Solução Ótima Garantida**: Sempre encontra o menor número de movimentos
+- **Performance Eficiente**: Resolução em milissegundos usando heurística inteligente
+- **Interface Interativa**: Visualização em tempo real da solução passo-a-passo
+- **Algoritmo A***: Implementação didática e bem documentada
 
 
 ### **Conceitos Demonstrados**
-- 🧠 **Inteligência Artificial**: Algoritmos de busca heurística
-- 📊 **Estruturas de Dados**: Filas de prioridade, grafos de estados
-- 🎯 **Otimização**: Heurísticas admissíveis e consistentes
-- 💻 **Programação**: Classes, objetos, algoritmos recursivos
+- **Inteligência Artificial**: Algoritmos de busca heurística
+- **Estruturas de Dados**: Filas de prioridade, grafos de estados
+- **Otimização**: Heurísticas admissíveis e consistentes
+- **Programação**: Classes, objetos, algoritmos recursivos
 
-### **Aplicações Práticas**
-- 🗺️ **Navegação GPS**: Encontrar rotas mais curtas
-- 🎮 **Jogos**: IA para NPCs e resolução de puzzles
-- 🤖 **Robótica**: Planejamento de movimento e trajetórias
-- 📋 **Logística**: Otimização de rotas e recursos
 
 ---
 
@@ -120,11 +115,11 @@ graph TD
 Contribuições são bem-vindas! Aqui estão algumas formas de ajudar:
 
 ### **Como Contribuir**
-1. 🍴 Faça um Fork do projeto
-2. 🔧 Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
-3. 📝 Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
-4. 🚀 Push para a branch (`git push origin feature/nova-funcionalidade`)
-5. 📩 Abra um Pull Request
+1. Faça um Fork do projeto
+2. Crie uma branch para sua feature (`git checkout -b feature/nova-funcionalidade`)
+3. Commit suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`)
+4. Push para a branch (`git push origin feature/nova-funcionalidade`)
+5. Abra um Pull Request
 
 ### **Ideias de Melhorias**
 - [ ] 📏 Suporte para tabuleiros 4x4 e 5x5
